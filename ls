@@ -90,10 +90,10 @@
 </section>
 <section class="level2" id="distribute-credit-easily">
 <h2>#3: Distribute credit easily</h2>
-<p><a href=""><img src="assets/bestInShow.gif" height="400"></a></p>
+<p><a href=""><img src="http://www.trinityvalleykennelclub.org/sitebuildercontent/sitebuilderpictures/2007-jan---best-in-show.gif" height="400"></a></p>
 </section>
-<section class="level2" id="only-fork-when-useful">
-<h2>#4: Only fork when useful</h2>
+<section class="level2" id="default-to-collaboration">
+<h2>#4: Default to collaboration</h2>
 <p><a href="http://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Turkishstarwarsposter.jpg/220px-Turkishstarwarsposter.jpg"><img height="400" src="assets/turkishStarWars2.jpg"> </a> <a href="http://www.radiowork.com/?p=214"><img height="400" src="assets/turkishStarWars1.png"> </a></p>
 </section>
 </section>
@@ -175,16 +175,18 @@
 
 <p><code>&quot;A community where you can learn how to investigate environmental concerns. Using inexpensive DIY techniques, we seek to change how people see the world in environmental, social, and political terms.&quot;</code></p>
 </section>
-<section class="level2" id="history">
-<h2>History</h2>
+<section class="level2" id="history-gulf-oil-spill">
+<h2>History: Gulf Oil Spill</h2>
 <ul>
-<li>Gulf Oil Spill</li>
-<li>Kite and Balloon mapping</li>
+<li>Deep water horizon pic</li>
+<li>Map</li>
+<li>Kite and balloon mapping</li>
 <li>Mapknitter.org</li>
 </ul>
 </section>
-<section class="level2" id="distributed-research-community">
-<h2>Distributed research community</h2>
+<section class="level2" id="structure">
+<h2>Structure</h2>
+<p>A distributed community, made up of:</p>
 <ul>
 <li>Citizens</li>
 <li>Activists</li>
@@ -323,7 +325,7 @@
 </section>
 <section class="level2" id="tutorials">
 <h2>Tutorials</h2>
-<p><a href="arduino.cc/en/Tutorial/"><img src="assets/arduinoLogo.png" height=100 border=0></a>     <a href="http://www.ladyada.net/learn/arduino/"><img src="assets/adafruitLogo.gif" height=100 border=0></a>     <a href="https://www.sparkfun.com/tutorials"><img src="assets/sparkfunLogo.png" height=100 border=0></a></p>
+<p><a href="arduino.cc/en/Tutorial/"><img src="http://blog.arduino.cc/wp-content/themes/arduinoWide/images/logo_blog_arduino.png" height=100 border=0></a>     <a href="http://www.ladyada.net/learn/arduino/"><img src="http://www.adafruit.com/includes/templates/adafruit/images/logo.gif" height=100 border=0></a>     <a href="https://www.sparkfun.com/tutorials"><img src="https://dlnmh9ip6v2uc.cloudfront.net/assets/c/c/c/2/4/5240baa2757b7f941d8b456f.png" height=100 border=0></a></p>
 </section>
 </section>
 <section class="level1" id="raspberry-pi">
@@ -357,7 +359,7 @@
 <h1>3D Printing</h1>
 <ul>
 <li><a href="http://www.thingiverse.com/">Thingiverse</a></li>
-<li>Example: <a href="http://www.appropedia.org/Category:Open_source_optics">Open Source Optics</a> with <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059840">cost savings</a> of over 95%</li>
+<li><a href="http://www.appropedia.org/Category:Open_source_optics">Open Source Optics</a>: <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059840">cost savings</a> over 95%</li>
 </ul>
 </section>
 <section class="level1" id="encouraging-openness">
@@ -366,7 +368,17 @@
 <li><a href="http://www.gnu.org/philosophy/free-sw.html">GNU</a> and <a href="http://creativecommons.org/">Creative Commons</a></li>
 <li><a href="http://www.ohwr.org/projects/cernohl/wiki">CERN Open Hardware Licenses</a></li>
 <li><a href="http://makezine.com/2012/02/14/soapbox-the-unspoken-rules-of-open-source-hardware/">Unspoken rules</a> and <a href="http://publicknowledge.org/blog/open-source-hardware-and-law">cultural norms</a></li>
+</ul>
+</section>
+<section class="level1" id="open-source-wins">
+<h1>Open Source 'Wins':</h1>
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Apache_HTTP_Server">Apache</a></li>
+<li><a href="http://www.wikipedia.org/">Wikipedia</a></li>
 <li><a href="http://dx.doi.org/10.7717/peerj.175">More citations</a> when data is shared</li>
+<li><a href="http://www.adafruit.com/">Adafruit</a> and <a href="https://www.sparkfun.com/">Sparkfun</a></li>
+<li><a href="http://www.scipy.org/">SciPy</a></li>
+<li><a href="http://arduino.cc/">Arduino</a> and <a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
 </ul>
 </section>
 <section class="level1" id="challenges">
@@ -375,35 +387,10 @@
 <li>Online infrastructure (wiki, videos, dissemination)</li>
 <li>Technical skills &amp; capacity</li>
 <li>Finding a place in the curriculum</li>
-<li>Finding a hackerspace</li>
+<li>Physical facilities</li>
 <li><a href="http://www.innovationexcellence.com/blog/2010/12/19/open-source-hardware-and-university-patents/">University patents</a></li>
-<li>Guidelines for tenure (cf. UMass Amherst Anthropology)</li>
-<li>Financial support for open source development</li>
-<li><em>&quot;Free as in speech, not as in beer.&quot;</em></li>
+<li>Guidelines for tenure (cf. Anthropology)</li>
 </ul>
-</section>
-<section class="level1" id="moving-forward">
-<h1>Moving forward</h1>
-<section class="level2" id="section-20">
-<h2></h2>
-<p>How might open source methods and values be useful in your work?</p>
-</section>
-<section class="level2" id="default-to">
-<h2>Default to:</h2>
-<ul>
-<li>Sharing</li>
-<li>Accessibility</li>
-<li>Attribution</li>
-<li>Collaboration</li>
-</ul>
-</section>
-<section class="level2" id="join-in">
-<h2>Join in!</h2>
-<ul>
-<li><a href="http://publiclab.org">Public Lab</a></li>
-<li><a href="http://farmhack.net">FarmHack</a></li>
-</ul>
-</section>
 </section>
 </div>
 
